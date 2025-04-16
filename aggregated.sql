@@ -10,5 +10,3 @@ WHERE
   AND {{TaskType}}
 GROUP BY
   DAY
-ORDER BY
-  DAY DESC
